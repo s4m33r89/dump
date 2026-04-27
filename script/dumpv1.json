@@ -1,0 +1,77 @@
+{
+  "streams": [
+    {
+      "name": "🇮🇳 Hotstar English HD",
+      "description": "HOTSTAR 🇮🇳",
+      "url": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8",
+      "_sourceKind": "m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "Cookie": "hdntl=exp=1775562415~acl=%2f*~id=b80fdeda9eb8dd11aeb9c6b7f6265ebe~data=hdntl~hmac=05da5b930c4a6e3a52a0a25f4cb073c492002a3a74c628c844ef7097afe1dead",
+            "User-Agent": "Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)",
+            "Origin": "https://www.hotstar.com",
+            "Referer": "https://www.hotstar.com"
+          }
+        }
+      }
+    },
+    {
+      "name": "📺 Fox Cricket 50FPS",
+      "description": "SMOOTH 50FPS",
+      "url": "https://freelivtv.xyz/oppu/m3u.php?id=167593&e=.m3u8",
+      "_sourceKind": "m3u8"
+    },
+    {
+      "name": "📺 FlexTV Cricket",
+      "description": "ALT SOURCE",
+      "url": "https://ranapk.online/FLEXTV/play.php?id=247166",
+      "_sourceKind": "m3u8"
+    },
+    {
+      "name": "🏏 Cricbuzz Willow EN",
+      "description": "WILLOW ENGLISH",
+      "url": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b",
+      "_sourceKind": "m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "X-Forwarded-For": "100.42.240.25"
+          }
+        }
+      }
+    },
+    {
+      "name": "🏏 Cricbuzz Willow HI (Basic)",
+      "description": "WILLOW HINDI",
+      "url": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b",
+      "_sourceKind": "m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "X-Forwarded-For": "100.42.240.25"
+          }
+        }
+      }
+    },
+    {
+      "name": "🏏 Cricbuzz Willow HI (Full Headers)",
+      "description": "WILLOW HINDI PRO",
+      "url": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149732/master.m3u8",
+      "_sourceKind": "m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1",
+            "X-Forwarded-For": "100.42.240.25",
+            "Cookie": "hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b"
+          }
+        }
+      }
+    }
+  ]
+}
